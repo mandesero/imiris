@@ -29,7 +29,7 @@ public:
 #define RUN 1
 #define IDLE 0
 
-#define LIMIT 1000 // время окончания моделирования
+#define LIMIT 300 // время окончания моделирования
 
 // задание в очереди
 class Request {
@@ -103,7 +103,9 @@ int main(int argc, char **argv ) {
 
     while((curr_ev = calendar.get()) != NULL ) {
         cout << "time " << curr_ev->time << " type " << curr_ev->type << endl;
-
+            
+        cout << "\nQUEUE_1 SIZE: " << queue1.size() << endl;
+        cout << "QUEUE_2 SIZE: " << queue2.size() << "\n" << endl;
         // curr_time = curr_ev->time; // продвигаем время
         curr_time[proc] = curr_ev->time; // --------------------------------
 
