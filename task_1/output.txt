@@ -1,0 +1,2151 @@
+time 0 type 1
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+time 0 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 0
+dt 0.49223 num 1
+pause 0
+Работа PROCESSOR_1 с 0 по 0 длит. 0
+
+time 0 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 1
+dt 0.451553 num 2
+pause 1
+Работа PROCESSOR_1 с 0 по 0 длит. 0
+
+time 0.451553 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 0 по 0.451553 длит. 0.451553
+
+time 0.49223 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 0 по 0.49223 длит. 0.49223
+
+time 7.75046 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 2
+dt 5.58805 num 2
+pause 2
+Работа PROCESSOR_1 с 7.75046 по 7.75046 длит. 0
+
+time 8.62022 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 3
+dt 7.46498 num 2
+pause 3
+Работа PROCESSOR_1 с 7.75046 по 8.62022 длит. 0.869753
+
+time 9.57944 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 4
+dt 2.6361 num 1
+pause 4
+Работа PROCESSOR_1 с 9.57944 по 9.57944 длит. 0
+
+time 12.2155 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 9.57944 по 12.2155 длит. 2.6361
+
+time 13.3385 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 12.2155 по 13.3385 длит. 1.12297
+
+time 13.9989 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 5
+dt 11.6817 num 2
+pause 5
+Работа PROCESSOR_1 с 13.3385 по 13.9989 длит. 0.660356
+
+time 16.0852 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+Работа PROCESSOR_2 с 8.62022 по 16.0852 длит. 7.46498
+
+time 21.871 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 6
+dt 14.3765 num 2
+pause 6
+Работа PROCESSOR_1 с 21.871 по 21.871 длит. 0
+
+time 21.1376 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 7
+dt 10.7962 num 2
+pause 7
+Работа PROCESSOR_1 с 21.871 по 21.1376 длит. -0.733362
+
+time 27.1015 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 8
+dt 6.57239 num 1
+pause 8
+Работа PROCESSOR_1 с 27.1015 по 27.1015 длит. 0
+
+time 22.178 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 9
+dt 6.81526 num 1
+pause 9
+Работа PROCESSOR_1 с 27.1015 по 22.178 длит. -4.92347
+
+time 27.7669 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+Работа PROCESSOR_2 с 21.1376 по 27.7669 длит. 6.62931
+
+time 31.74 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 10
+dt 11.9765 num 2
+pause 10
+Работа PROCESSOR_1 с 31.74 по 31.74 длит. 0
+
+time 31.9339 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 27.7669 по 31.9339 длит. 4.16694
+
+time 33.6739 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 31.74 по 33.6739 длит. 1.93392
+
+time 34.5822 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 31.9339 по 34.5822 длит. 2.64832
+
+time 36.2475 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 33.6739 по 36.2475 длит. 2.57361
+
+time 36.7241 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 11
+dt 0.961288 num 2
+pause 11
+Работа PROCESSOR_1 с 36.2475 по 36.7241 длит. 0.476585
+
+time 37.6853 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 36.7241 по 37.6853 длит. 0.961288
+
+time 42.7293 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 12
+dt 7.82534 num 1
+pause 12
+Работа PROCESSOR_1 с 42.7293 по 42.7293 длит. 0
+
+time 43.7164 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 42.7293 по 43.7164 длит. 0.987114
+
+time 44.2053 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 13
+dt 10.3781 num 2
+pause 13
+Работа PROCESSOR_1 с 43.7164 по 44.2053 длит. 0.488876
+
+time 44.2125 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 14
+dt 4.55892 num 1
+pause 14
+Работа PROCESSOR_1 с 44.2125 по 44.2125 длит. 0
+
+time 48.7345 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 15
+dt 1.51805 num 2
+pause 15
+Работа PROCESSOR_1 с 44.2125 по 48.7345 длит. 4.52193
+
+time 48.7715 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+Работа PROCESSOR_1 с 48.7345 по 48.7715 длит. 0.0369911
+
+time 49.2637 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+req 16
+dt 2.2637 num 2
+pause 16
+Работа PROCESSOR_1 с 49.2637 по 49.2637 длит. 0
+
+time 49.7193 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+req 17
+dt 5.60322 num 2
+pause 17
+Работа PROCESSOR_1 с 49.2637 по 49.7193 длит. 0.455578
+
+time 50.5547 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 2
+
+Работа PROCESSOR_1 с 49.7193 по 50.5547 длит. 0.835419
+
+time 51.5274 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 2
+
+Работа PROCESSOR_1 с 50.5547 по 51.5274 длит. 0.972698
+
+time 53.1896 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 2
+
+req 18
+dt 18.3069 num 2
+pause 18
+Работа PROCESSOR_1 с 53.1896 по 53.1896 длит. 0
+
+time 54.5834 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 2
+
+Работа PROCESSOR_2 с 44.2053 по 54.5834 длит. 10.3781
+
+time 56.1015 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+Работа PROCESSOR_2 с 54.5834 по 56.1015 длит. 1.51805
+
+time 56.2534 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 19
+dt 0.348546 num 2
+pause 19
+Работа PROCESSOR_1 с 53.1896 по 56.2534 длит. 3.0638
+
+time 54.9791 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 20
+dt 11.5495 num 2
+pause 20
+Работа PROCESSOR_1 с 54.9791 по 54.9791 длит. 0
+
+time 56.6019 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 56.2534 по 56.6019 длит. 0.348545
+
+time 56.8896 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 21
+dt 0.322053 num 1
+pause 21
+Работа PROCESSOR_1 с 54.9791 по 56.8896 длит. 1.91047
+
+time 57.2116 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 56.8896 по 57.2116 длит. 0.322052
+
+time 60.9051 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 22
+dt 1.06759 num 1
+pause 22
+Работа PROCESSOR_1 с 60.9051 по 60.9051 длит. 0
+
+time 61.7047 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 57.2116 по 61.7047 длит. 4.49305
+
+time 61.9726 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 60.9051 по 61.9726 длит. 1.06759
+
+time 62.2685 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 23
+dt 5.66384 num 2
+pause 23
+Работа PROCESSOR_1 с 61.9726 по 62.2685 длит. 0.295864
+
+time 66.5286 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 62.2685 по 66.5286 длит. 4.26007
+
+time 67.9323 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 62.2685 по 67.9323 длит. 5.66384
+
+time 68.652 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 24
+dt 6.24036 num 1
+pause 24
+Работа PROCESSOR_1 с 68.652 по 68.652 длит. 0
+
+time 69.6126 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 25
+dt 10.9078 num 2
+pause 25
+Работа PROCESSOR_1 с 68.652 по 69.6126 длит. 0.960632
+
+time 70.8806 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 26
+dt 17.2086 num 2
+pause 26
+Работа PROCESSOR_1 с 70.8806 по 70.8806 длит. 0
+
+time 71.4965 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 70.8806 по 71.4965 длит. 0.615883
+
+time 74.8923 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 71.4965 по 74.8923 длит. 3.39587
+
+time 75.5472 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 27
+dt 0.372902 num 2
+pause 27
+Работа PROCESSOR_1 с 74.8923 по 75.5472 длит. 0.654831
+
+time 80.5204 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+Работа PROCESSOR_2 с 69.6126 по 80.5204 длит. 10.9078
+
+time 80.8933 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 80.5204 по 80.8933 длит. 0.372902
+
+time 81.322 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 28
+dt 18.3963 num 2
+pause 28
+Работа PROCESSOR_1 с 81.322 по 81.322 длит. 0
+
+time 86.2688 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 29
+dt 2.8953 num 2
+pause 29
+Работа PROCESSOR_1 с 81.322 по 86.2688 длит. 4.94685
+
+time 85.079 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 30
+dt 3.43525 num 2
+pause 30
+Работа PROCESSOR_1 с 85.079 по 85.079 длит. 0
+
+time 87.2267 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 31
+dt 8.80821 num 1
+pause 31
+Работа PROCESSOR_1 с 85.079 по 87.2267 длит. 2.14765
+
+time 88.0892 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+Работа PROCESSOR_1 с 87.2267 по 88.0892 длит. 0.862488
+
+time 88.4755 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+req 32
+dt 6.38295 num 2
+pause 32
+Работа PROCESSOR_1 с 88.4755 по 88.4755 длит. 0
+
+time 88.5143 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+Работа PROCESSOR_1 с 88.4755 по 88.5143 длит. 0.0387955
+
+time 88.8365 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+req 33
+dt 13.5507 num 2
+pause 33
+Работа PROCESSOR_1 с 88.5143 по 88.8365 длит. 0.32222
+
+time 89.1641 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 2
+
+Работа PROCESSOR_2 с 86.2688 по 89.1641 длит. 2.8953
+
+time 90.778 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+req 34
+dt 8.14393 num 1
+pause 34
+Работа PROCESSOR_1 с 90.778 по 90.778 длит. 0
+
+time 90.8592 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+req 35
+dt 8.269 num 2
+pause 35
+Работа PROCESSOR_1 с 90.778 по 90.8592 длит. 0.0812454
+
+time 94.6967 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+req 36
+dt 5.92953 num 2
+pause 36
+Работа PROCESSOR_1 с 94.6967 по 94.6967 длит. 0
+
+time 94.8585 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+Работа PROCESSOR_1 с 94.6967 по 94.8585 длит. 0.161804
+
+time 95.3158 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+req 37
+dt 13.7633 num 2
+pause 37
+Работа PROCESSOR_1 с 94.8585 по 95.3158 длит. 0.457336
+
+time 97.9724 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 2
+
+Работа PROCESSOR_2 с 90.8592 по 97.9724 длит. 7.11311
+
+time 98.8908 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+req 38
+dt 0.353454 num 2
+pause 38
+Работа PROCESSOR_1 с 98.8908 по 98.8908 длит. 0
+
+time 98.9219 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+Работа PROCESSOR_1 с 98.8908 по 98.9219 длит. 0.0311127
+
+time 99.1282 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+Работа PROCESSOR_2 с 97.9724 по 99.1282 длит. 1.15589
+
+time 99.2443 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 98.9219 по 99.2443 длит. 0.322342
+
+time 99.7183 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 99.2443 по 99.7183 длит. 0.474007
+
+time 100.626 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 99.7183 по 100.626 длит. 0.907913
+
+time 103.063 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 39
+dt 1.67234 num 1
+pause 39
+Работа PROCESSOR_1 с 100.626 по 103.063 длит. 2.43719
+
+time 104.736 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 103.063 по 104.736 длит. 1.67233
+
+time 107.686 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 40
+dt 18.7214 num 2
+pause 40
+Работа PROCESSOR_1 с 107.686 по 107.686 длит. 0
+
+time 111.523 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 104.736 по 111.523 длит. 6.78733
+
+time 111.862 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 41
+dt 17.2914 num 2
+pause 41
+Работа PROCESSOR_1 с 107.686 по 111.862 длит. 4.17606
+
+time 112.891 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 111.862 по 112.891 длит. 1.02954
+
+time 113.46 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 42
+dt 3.0608 num 1
+pause 42
+Работа PROCESSOR_1 с 113.46 по 113.46 длит. 0
+
+time 115.651 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 43
+dt 8.78932 num 2
+pause 43
+Работа PROCESSOR_1 с 113.46 по 115.651 длит. 2.19056
+
+time 115.719 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 44
+dt 8.41527 num 2
+pause 44
+Работа PROCESSOR_1 с 115.719 по 115.719 длит. 0
+
+time 116.521 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 115.719 по 116.521 длит. 0.801857
+
+time 121.493 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 45
+dt 12.032 num 2
+pause 45
+Работа PROCESSOR_1 с 116.521 по 121.493 длит. 4.97207
+
+time 122.446 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+req 46
+dt 16.098 num 2
+pause 46
+Работа PROCESSOR_1 с 122.446 по 122.446 длит. 0
+
+time 124.135 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+Работа PROCESSOR_1 с 122.446 по 124.135 длит. 1.68816
+
+time 124.44 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+Работа PROCESSOR_2 с 115.651 по 124.44 длит. 8.78932
+
+time 126.317 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 47
+dt 17.5495 num 2
+pause 47
+Работа PROCESSOR_1 с 124.135 по 126.317 длит. 2.18288
+
+time 125.375 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 48
+dt 12.8681 num 2
+pause 48
+Работа PROCESSOR_1 с 125.375 по 125.375 длит. 0
+
+time 126.407 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 125.375 по 126.407 длит. 1.0323
+
+time 129.153 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 126.317 по 129.153 длит. 2.83588
+
+time 130.556 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 49
+dt 3.5854 num 1
+pause 49
+Работа PROCESSOR_1 с 126.407 по 130.556 длит. 4.14843
+
+time 131.868 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 50
+dt 4.99941 num 2
+pause 50
+Работа PROCESSOR_1 с 131.868 по 131.868 длит. 0
+
+time 134.141 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 130.556 по 134.141 длит. 3.5854
+
+time 135.563 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 51
+dt 8.49663 num 1
+pause 51
+Работа PROCESSOR_1 с 131.868 по 135.563 длит. 3.69576
+
+time 136.472 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 135.563 по 136.472 длит. 0.908966
+
+time 136.867 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 135.563 по 136.867 длит. 1.30365
+
+time 138.243 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 136.867 по 138.243 длит. 1.37619
+
+time 138.276 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 52
+dt 4.3529 num 2
+pause 52
+Работа PROCESSOR_1 с 138.276 по 138.276 длит. 0
+
+time 138.544 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 138.276 по 138.544 длит. 0.268723
+
+time 141.851 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 53
+dt 18.9937 num 2
+pause 53
+Работа PROCESSOR_1 с 138.544 по 141.851 длит. 3.30612
+
+time 140.898 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 54
+dt 10.1836 num 2
+pause 54
+Работа PROCESSOR_1 с 140.898 по 140.898 длит. 0
+
+time 142.629 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 140.898 по 142.629 длит. 1.731
+
+time 142.796 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 55
+dt 8.77026 num 1
+pause 55
+Работа PROCESSOR_1 с 142.629 по 142.796 длит. 0.167908
+
+time 143.02 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+req 56
+dt 16.5908 num 2
+pause 56
+Работа PROCESSOR_1 с 143.02 по 143.02 длит. 0
+
+time 143.867 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+Работа PROCESSOR_2 с 141.851 по 143.867 длит. 2.01642
+
+time 144.06 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 143.867 по 144.06 длит. 0.192993
+
+time 150.212 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 57
+dt 4.83509 num 2
+pause 57
+Работа PROCESSOR_1 с 143.02 по 150.212 длит. 7.19276
+
+time 144.376 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 58
+dt 12.4962 num 2
+pause 58
+Работа PROCESSOR_1 с 144.376 по 144.376 длит. 0
+
+time 151.081 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 144.376 по 151.081 длит. 6.70529
+
+time 151.534 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 59
+dt 3.61515 num 1
+pause 59
+Работа PROCESSOR_1 с 151.081 по 151.534 длит. 0.452454
+
+time 151.993 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+req 60
+dt 2.65451 num 1
+pause 60
+Работа PROCESSOR_1 с 151.993 по 151.993 длит. 0
+
+time 152.637 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+Работа PROCESSOR_2 с 150.212 по 152.637 длит. 2.42476
+
+time 154.647 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 151.993 по 154.647 длит. 2.65451
+
+time 155.048 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 152.637 по 155.048 длит. 2.41032
+
+time 156.252 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 155.048 по 156.252 длит. 1.20483
+
+time 156.872 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 154.647 по 156.872 длит. 2.22493
+
+time 157.025 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 61
+dt 12.762 num 2
+pause 61
+Работа PROCESSOR_1 с 156.872 по 157.025 длит. 0.152573
+
+time 157.576 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 62
+dt 8.91077 num 2
+pause 62
+Работа PROCESSOR_1 с 157.576 по 157.576 длит. 0
+
+time 159.61 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 157.576 по 159.61 длит. 2.03493
+
+time 160.844 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 157.025 по 160.844 длит. 3.81953
+
+time 162.18 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 63
+dt 3.88793 num 2
+pause 63
+Работа PROCESSOR_1 с 159.61 по 162.18 длит. 2.56987
+
+time 160.5 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 64
+dt 1.41163 num 2
+pause 64
+Работа PROCESSOR_1 с 160.5 по 160.5 длит. 0
+
+time 161.912 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 160.5 по 161.912 длит. 1.41162
+
+time 166.068 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 162.18 по 166.068 длит. 3.88792
+
+time 166.486 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 161.912 по 166.486 длит. 4.57478
+
+time 167.71 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 65
+dt 10.9348 num 2
+pause 65
+Работа PROCESSOR_1 с 166.486 по 167.71 длит. 1.22339
+
+time 169.692 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 66
+dt 6.49853 num 2
+pause 66
+Работа PROCESSOR_1 с 169.692 по 169.692 длит. 0
+
+time 169.787 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 167.71 по 169.787 длит. 2.07689
+
+time 170.796 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 67
+dt 8.66999 num 1
+pause 67
+Работа PROCESSOR_1 с 169.692 по 170.796 длит. 1.10408
+
+time 171.674 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 68
+dt 18.6846 num 2
+pause 68
+Работа PROCESSOR_1 с 171.674 по 171.674 длит. 0
+
+time 176.19 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 171.674 по 176.19 длит. 4.51663
+
+time 178.645 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 170.796 по 178.645 длит. 7.8486
+
+time 178.963 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 69
+dt 15.5578 num 2
+pause 69
+Работа PROCESSOR_1 с 176.19 по 178.963 длит. 2.77235
+
+time 179.466 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 178.963 по 179.466 длит. 0.503174
+
+time 180.543 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 70
+dt 9.33597 num 1
+pause 70
+Работа PROCESSOR_1 с 180.543 по 180.543 длит. 0
+
+time 180.624 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 71
+dt 17.7732 num 2
+pause 71
+Работа PROCESSOR_1 с 180.543 по 180.624 длит. 0.0812073
+
+time 188.175 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 72
+dt 7.93022 num 2
+pause 72
+Работа PROCESSOR_1 с 188.175 по 188.175 длит. 0
+
+time 181.929 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 73
+dt 17.9752 num 2
+pause 73
+Работа PROCESSOR_1 с 188.175 по 181.929 длит. -6.246
+
+time 188.388 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+req 74
+dt 16.2327 num 2
+pause 74
+Работа PROCESSOR_1 с 188.388 по 188.388 длит. 0
+
+time 184.531 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+req 75
+dt 1.33785 num 2
+pause 75
+Работа PROCESSOR_1 с 188.388 по 184.531 длит. -3.85646
+
+time 189.159 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 2
+
+req 76
+dt 4.4678 num 2
+pause 76
+Работа PROCESSOR_1 с 189.159 по 189.159 длит. 0
+
+time 189.879 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 2
+
+Работа PROCESSOR_1 с 189.159 по 189.879 длит. 0.72052
+
+time 190.358 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 2
+
+Работа PROCESSOR_1 с 189.879 по 190.358 длит. 0.479095
+
+time 191.581 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 2
+
+req 77
+dt 2.94876 num 2
+pause 77
+Работа PROCESSOR_1 с 190.358 по 191.581 длит. 1.22296
+
+time 192.564 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 3
+
+req 78
+dt 2.20564 num 1
+pause 78
+Работа PROCESSOR_1 с 192.564 по 192.564 длит. 0
+
+time 193.627 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 3
+
+Работа PROCESSOR_1 с 192.564 по 193.627 длит. 1.0623
+
+time 194.521 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 3
+
+Работа PROCESSOR_2 с 180.624 по 194.521 длит. 13.896
+
+time 194.77 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 2
+
+Работа PROCESSOR_1 с 193.627 по 194.77 длит. 1.14334
+
+time 196.105 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 2
+
+Работа PROCESSOR_1 с 194.77 по 196.105 длит. 1.33501
+
+time 197.048 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 2
+
+req 79
+dt 15.1574 num 2
+pause 79
+Работа PROCESSOR_1 с 196.105 по 197.048 длит. 0.942749
+
+time 198.398 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 2
+
+Работа PROCESSOR_2 с 197.048 по 198.398 длит. 1.3501
+
+time 198.418 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+req 80
+dt 8.94771 num 1
+pause 80
+Работа PROCESSOR_1 с 198.418 по 198.418 длит. 0
+
+time 199.016 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+req 81
+dt 12.2339 num 2
+pause 81
+Работа PROCESSOR_1 с 198.418 по 199.016 длит. 0.598343
+
+time 199.736 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+Работа PROCESSOR_2 с 199.016 по 199.736 длит. 0.719238
+
+time 200.615 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 82
+dt 14.0203 num 2
+pause 82
+Работа PROCESSOR_1 с 200.615 по 200.615 длит. 0
+
+time 202.684 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 199.736 по 202.684 длит. 2.94876
+
+time 204.49 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 83
+dt 7.62269 num 1
+pause 83
+Работа PROCESSOR_1 с 200.615 по 204.49 длит. 3.87502
+
+time 204.523 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 84
+dt 5.90754 num 2
+pause 84
+Работа PROCESSOR_1 с 204.523 по 204.523 длит. 0
+
+time 204.621 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 204.523 по 204.621 длит. 0.098053
+
+time 207.366 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 204.621 по 207.366 длит. 2.74512
+
+time 209.892 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 85
+dt 1.57311 num 2
+pause 85
+Работа PROCESSOR_1 с 207.366 по 209.892 длит. 2.52586
+
+time 209.655 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+req 86
+dt 3.90148 num 2
+pause 86
+Работа PROCESSOR_1 с 209.655 по 209.655 длит. 0
+
+time 210.43 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+Работа PROCESSOR_1 с 209.655 по 210.43 длит. 0.774612
+
+time 211.25 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+Работа PROCESSOR_2 с 204.49 по 211.25 длит. 6.76028
+
+time 212.113 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 211.25 по 212.113 длит. 0.862396
+
+time 212.205 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 212.113 по 212.205 длит. 0.0924072
+
+time 212.496 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 212.205 по 212.496 длит. 0.290634
+
+time 212.823 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 212.496 по 212.823 длит. 0.327667
+
+time 213.32 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 87
+dt 9.92112 num 1
+pause 87
+Работа PROCESSOR_1 с 210.43 по 213.32 длит. 2.88982
+
+time 213.557 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 213.32 по 213.557 длит. 0.237045
+
+time 214.635 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 213.557 по 214.635 длит. 1.07837
+
+time 219.565 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 88
+dt 1.95467 num 2
+pause 88
+Работа PROCESSOR_1 с 219.565 по 219.565 длит. 0
+
+time 221.519 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 219.565 по 221.519 длит. 1.95467
+
+time 222.229 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 89
+dt 12.2581 num 2
+pause 89
+Работа PROCESSOR_1 с 221.519 по 222.229 длит. 0.709183
+
+time 222.262 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+req 90
+dt 1.51145 num 1
+pause 90
+Работа PROCESSOR_1 с 222.262 по 222.262 длит. 0
+
+time 223.241 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+Работа PROCESSOR_2 с 213.32 по 223.241 длит. 9.92113
+
+time 223.773 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 222.262 по 223.773 длит. 1.51146
+
+time 230.613 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 91
+dt 19.7292 num 2
+pause 91
+Работа PROCESSOR_1 с 223.773 по 230.613 длит. 6.83989
+
+time 227.519 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 92
+dt 7.69576 num 2
+pause 92
+Работа PROCESSOR_1 с 227.519 по 227.519 длит. 0
+
+time 231.952 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 93
+dt 0.869276 num 2
+pause 93
+Работа PROCESSOR_1 с 227.519 по 231.952 длит. 4.4335
+
+time 233.572 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+req 94
+dt 9.51459 num 2
+pause 94
+Работа PROCESSOR_1 с 233.572 по 233.572 длит. 0
+
+time 235.214 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+Работа PROCESSOR_1 с 233.572 по 235.214 длит. 1.64224
+
+time 235.499 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+Работа PROCESSOR_2 с 230.613 по 235.499 длит. 4.88599
+
+time 235.825 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 95
+dt 8.96497 num 1
+pause 95
+Работа PROCESSOR_1 с 235.214 по 235.825 длит. 0.610199
+
+time 236.368 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 235.825 по 236.368 длит. 0.543854
+
+time 239.965 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 96
+dt 2.11896 num 2
+pause 96
+Работа PROCESSOR_1 с 239.965 по 239.965 длит. 0
+
+time 241.45 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 97
+dt 11.8039 num 2
+pause 97
+Работа PROCESSOR_1 с 239.965 по 241.45 длит. 1.48489
+
+time 242.084 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 241.45 по 242.084 длит. 0.634064
+
+time 242.624 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 98
+dt 9.8689 num 1
+pause 98
+Работа PROCESSOR_1 с 242.624 по 242.624 длит. 0
+
+time 243.087 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 242.624 по 243.087 длит. 0.462341
+
+time 244.789 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 241.45 по 244.789 длит. 3.33917
+
+time 248.035 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 99
+dt 8.8442 num 2
+pause 99
+Работа PROCESSOR_1 с 243.087 по 248.035 длит. 4.94839
+
+time 245.909 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 100
+dt 17.8525 num 2
+pause 100
+Работа PROCESSOR_1 с 245.909 по 245.909 длит. 0
+
+time 248.5 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 101
+dt 5.11241 num 1
+pause 101
+Работа PROCESSOR_1 с 245.909 по 248.5 длит. 2.5903
+
+time 247.663 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+req 102
+dt 4.88183 num 1
+pause 102
+Работа PROCESSOR_1 с 247.663 по 247.663 длит. 0
+
+time 250.342 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+Работа PROCESSOR_2 с 248.035 по 250.342 длит. 2.30721
+
+time 252.493 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 247.663 по 252.493 длит. 4.82994
+
+time 252.545 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 252.493 по 252.545 длит. 0.0518951
+
+time 253.244 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 103
+dt 13.5856 num 2
+pause 103
+Работа PROCESSOR_1 с 252.545 по 253.244 длит. 0.698608
+
+time 253.254 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 253.244 по 253.254 длит. 0.0105286
+
+time 255.455 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 253.254 по 255.455 длит. 2.20042
+
+time 256.879 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 255.455 по 256.879 длит. 1.42458
+
+time 258.404 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 104
+dt 7.88449 num 2
+pause 104
+Работа PROCESSOR_1 с 258.404 по 258.404 длит. 0
+
+time 258.567 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 105
+dt 4.95286 num 1
+pause 105
+Работа PROCESSOR_1 с 258.404 по 258.567 длит. 0.162415
+
+time 259.801 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 106
+dt 19.4397 num 2
+pause 106
+Работа PROCESSOR_1 с 259.801 по 259.801 длит. 0
+
+time 263.384 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 107
+dt 18.3981 num 2
+pause 107
+Работа PROCESSOR_1 с 259.801 по 263.384 длит. 3.58301
+
+time 263.369 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+req 108
+dt 12.3128 num 2
+pause 108
+Работа PROCESSOR_1 с 263.369 по 263.369 длит. 0
+
+time 263.52 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+Работа PROCESSOR_2 с 258.567 по 263.52 длит. 4.95285
+
+time 263.762 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 263.369 по 263.762 длит. 0.392944
+
+time 266.289 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 263.762 по 266.289 длит. 2.52698
+
+time 266.829 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 263.52 по 266.829 длит. 3.30981
+
+time 269.312 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 109
+dt 9.62123 num 1
+pause 109
+Работа PROCESSOR_1 с 266.289 по 269.312 длит. 3.02289
+
+time 268.116 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 110
+dt 7.64704 num 1
+pause 110
+Работа PROCESSOR_1 с 268.116 по 268.116 длит. 0
+
+time 273.018 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 111
+dt 9.23738 num 2
+pause 111
+Работа PROCESSOR_1 с 268.116 по 273.018 длит. 4.9017
+
+time 275.682 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+Работа PROCESSOR_1 с 273.018 по 275.682 длит. 2.66379
+
+time 275.763 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+Работа PROCESSOR_1 с 275.682 по 275.763 длит. 0.081543
+
+time 276.823 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+req 112
+dt 7.33628 num 2
+pause 112
+Работа PROCESSOR_1 с 276.823 по 276.823 длит. 0
+
+time 273.538 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+req 113
+dt 13.5523 num 2
+pause 113
+Работа PROCESSOR_1 с 276.823 по 273.538 длит. -3.28415
+
+time 278.933 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 2
+
+Работа PROCESSOR_2 с 269.312 по 278.933 длит. 9.62122
+
+time 279.241 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+Работа PROCESSOR_1 с 273.538 по 279.241 длит. 5.7023
+
+time 280.36 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+req 114
+dt 8.09064 num 2
+pause 114
+Работа PROCESSOR_1 с 280.36 по 280.36 длит. 0
+
+time 280.131 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+req 115
+dt 12.7194 num 2
+pause 115
+Работа PROCESSOR_1 с 280.36 по 280.131 длит. -0.228546
+
+time 281.918 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+Работа PROCESSOR_2 с 280.131 по 281.918 длит. 1.7865
+
+time 283.331 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 116
+dt 12.8138 num 2
+pause 116
+Работа PROCESSOR_1 с 283.331 по 283.331 длит. 0
+
+time 283.39 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 117
+dt 7.69707 num 2
+pause 117
+Работа PROCESSOR_1 с 283.331 по 283.39 длит. 0.0585022
+
+time 284.159 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 283.39 по 284.159 длит. 0.769165
+
+time 284.62 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 118
+dt 13.0113 num 2
+pause 118
+Работа PROCESSOR_1 с 284.62 по 284.62 длит. 0
+
+time 284.031 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 119
+dt 14.2958 num 2
+pause 119
+Работа PROCESSOR_1 с 284.62 по 284.031 длит. -0.588898
+
+time 285.068 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+req 120
+dt 7.12644 num 2
+pause 120
+Работа PROCESSOR_1 с 285.068 по 285.068 длит. 0
+
+time 286.132 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+req 121
+dt 11.8031 num 2
+pause 121
+Работа PROCESSOR_1 с 285.068 по 286.132 длит. 1.064
+
+time 286.484 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 2
+
+req 122
+dt 6.91822 num 1
+pause 122
+Работа PROCESSOR_1 с 286.484 по 286.484 длит. 0
+
+time 288.17 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 2
+
+Работа PROCESSOR_2 с 283.39 по 288.17 длит. 4.78052
+
+time 288.351 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+req 123
+dt 13.7015 num 2
+pause 123
+Работа PROCESSOR_1 с 286.484 по 288.351 длит. 1.86688
+
+time 288.45 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+Работа PROCESSOR_1 с 288.351 по 288.45 длит. 0.0993958
+
+time 289.559 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+req 124
+dt 9.46861 num 2
+pause 124
+Работа PROCESSOR_1 с 289.559 по 289.559 длит. 0
+
+time 291.087 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 1
+
+Работа PROCESSOR_2 с 288.351 по 291.087 длит. 2.7359
+
+time 292.194 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 289.559 по 292.194 длит. 2.63565
+
+time 292.851 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 291.087 по 292.851 длит. 1.7637
+
+time 293.402 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 292.194 по 293.402 длит. 1.20795
+
+time 294.823 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 125
+dt 7.97659 num 2
+pause 125
+Работа PROCESSOR_1 с 293.402 по 294.823 длит. 1.42065
+
+time 295.47 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 294.823 по 295.47 длит. 0.647064
+
+time 295.784 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 126
+dt 10.1164 num 2
+pause 126
+Работа PROCESSOR_1 с 295.784 по 295.784 длит. 0
+
+time 296.145 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 295.784 по 296.145 длит. 0.361481
+
+time 296.333 type 2
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+req 127
+dt 1.08787 num 1
+pause 127
+Работа PROCESSOR_1 с 296.145 по 296.333 длит. 0.188019
+
+time 297.421 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_2 с 296.333 по 297.421 длит. 1.08786
+
+time 297.631 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 296.333 по 297.631 длит. 1.29816
+
+time 299.027 type 3
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
+Работа PROCESSOR_1 с 297.631 по 299.027 длит. 1.39603
+
+time 302.052 type 4
+
+QUEUE_1 SIZE: 0
+QUEUE_2 SIZE: 0
+
